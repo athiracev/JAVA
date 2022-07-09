@@ -1,4 +1,4 @@
-//largest of 3 numbers 
+//largest of three numbers
 
 import java.awt.*;
 import java.applet.*;   
